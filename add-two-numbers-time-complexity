@@ -1,0 +1,7 @@
+Complexity Analysis
+
+Time complexity :  O(max(l1, l2)). 
+The algorithm above iterates at most max(l1, l2) times.  
+
+Space complexity : O(max(l1, l2)). 
+The length of the new list is at most max(l1, l2)+1.
