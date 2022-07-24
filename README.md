@@ -10,4 +10,4 @@ LeetCode-Top-Interview-Questions
 |   | 5 | [Longest Palindromic Substring](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/longest-palindromic-substring.java) | Time Complexity | Medium |
 |   | 11 | [Container With Most Water](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/container-with-most-water.java) | Time Complexity | Medium |
 
-15. 3Sum
+|   | 15 | [3Sum](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/3sum.java) | Time Complexity | Medium |
