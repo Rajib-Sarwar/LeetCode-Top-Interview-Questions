@@ -1,0 +1,6 @@
+##Complexity Analysis
+
+Time complexity : O(n). 
+Index j will iterate n times.
+
+Space complexity (HashMap) : O(m), m = size of distinct character set.
