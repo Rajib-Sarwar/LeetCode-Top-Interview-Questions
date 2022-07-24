@@ -1,4 +1,4 @@
-##Complexity Analysis
+Complexity Analysis
 
 Time complexity : O(n). 
 Index j will iterate n times.
