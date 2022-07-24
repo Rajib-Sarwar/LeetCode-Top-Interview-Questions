@@ -1,16 +1,36 @@
-
 class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        int ans = 0, i=0;
+    public String longestPalindrome(String s) {
+        int ans = 0, ans_j = -1, ans_k = -1, n = s.length();
         
-        for(int j=0; j<s.length(); j++) {
-            if(map.containsKey(s.charAt(j))) {
-                i = Math.max(i, map.get(s.charAt(j))+1); //N.B: always keep the max index
+        for(int i=0; i<n; i++) {
+            int j=i, k=i;
+            while(j>=0 && k<n && s.charAt(j) == s.charAt(k)) {
+                int temp = k-j+1;
+                if(ans < temp) {
+                    ans = temp;
+                    ans_j = j;
+                    ans_k = k;
+                }
+                j--;
+                k++;
             }
-            ans = Math.max(ans, j-i+1);
-            map.put(s.charAt(j), j);
+            
+            j=i; k=i+1;
+            while(j>=0 && k<n && s.charAt(j) == s.charAt(k)) {
+                int temp = k-j+1;
+                if(ans < temp) {
+                    ans = temp;
+                    ans_j = j;
+                    ans_k = k;
+                }
+                j--;
+                k++;
+            }
         }
-        return ans;
+        StringBuilder builder = new StringBuilder();
+        for(int i=ans_j; i<=ans_k; i++) {
+            builder.append(s.charAt(i));
+        }
+        return builder.toString();
     }
 }
