@@ -13,5 +13,5 @@ LeetCode-Top-Interview-Questions
 | Day 2 | 19 | [Remove Nth Node From End of List](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/remove-nth-node-from-end-of-list.java) | Time Complexity | Medium |
 |   | 17 | [Letter Combinations of a Phone Number](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/letter-combinations-of-a-phone-number.java) | Time Complexity | Medium |
 |   | 22 | [Generate Parentheses](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/generate-parentheses.java) | Time Complexity | Medium |
-|   | 75 | [Sort Colors](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/generate-parentheses.java) | Time Complexity | Medium |
+|   | 75 | [Sort Colors](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/sort-colors.java) | Time Complexity | Medium |
 
