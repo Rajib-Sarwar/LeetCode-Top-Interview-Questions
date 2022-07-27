@@ -17,4 +17,5 @@ LeetCode-Top-Interview-Questions
 |   | 24 | [Swap Nodes in Pairs](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/swap-nodes-in-pairs.java) | Time Complexity | Medium |
 | Day 3 | 31 | [Next Permutation](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/next-permutation.java) | Time Complexity| Medium |
 | Day 4 | 33 | [Search in Rotated Sorted Array](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/search-in-rotated-sorted-array.java) | Time Complexity| Medium |
+|   | 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/find-first-and-last-position-of-element-in-sorted-array.java) | Time Complexity| Medium |
 
