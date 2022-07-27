@@ -16,4 +16,5 @@ LeetCode-Top-Interview-Questions
 |   | 75 | [Sort Colors](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/sort-colors.java) | Time Complexity | Medium |
 |   | 24 | [Swap Nodes in Pairs](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/swap-nodes-in-pairs.java) | Time Complexity | Medium |
 | Day 3 | 31 | [Next Permutation](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/next-permutation.java) | Time Complexity| Medium |
+| Day 4 | 33 | [Search in Rotated Sorted Array](https://github.com/Rajib-Sarwar/LeetCode-Top-Interview-Questions/blob/main/search-in-rotated-sorted-array.java) | Time Complexity| Medium |
 
