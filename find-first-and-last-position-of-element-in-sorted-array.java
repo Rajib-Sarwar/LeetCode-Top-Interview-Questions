@@ -9,7 +9,6 @@ class Solution {
         int rightIndex = rightMostIndex(nums, leftIndex, nums.length-1, target);
         
         return new int[]{leftIndex, rightIndex};
-        
     }
     
     int leftMostIndex(int[] nums, int left, int right, int target) {
